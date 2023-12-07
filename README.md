@@ -20,7 +20,7 @@ Using the exponential growth model, *N(t) = N<sub>0</sub>e<sup>rt</sup>*, we can
 
   *N(4980) = 1330.74e<sup>0.0095218 x 4980</sup> = 5.220522 x 10<sup>23</sup>*  
   
-*How does it compare to the pop size predicted under logistic growth?*
+*How does it compare to the pop size predicted under logistic growth?*  
 It is much larger compared to the population size under logistic growth which at *t* = 4980, reaches *K* (6 x 10<sup>10</sup>).  
 There is no carrying capacity in exponential growth to limit population growth; the population can theoretically continue to grow indefinitely and predicts continuous, unrestricted growth.  
 Yet under logistic growth, the population is limited by its carrying capacity, the maximum population that the environment can sustain. As the population approached *K*, its growth rate slowed down, reaching an equilibrium.  
